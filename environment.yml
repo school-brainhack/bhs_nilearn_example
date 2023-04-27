@@ -5,3 +5,4 @@ dependencies:
   - nilearn
   - nibabel
   - pandas
+  - matplotlib
